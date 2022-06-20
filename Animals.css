@@ -1,0 +1,26 @@
+body{
+    background-image:
+    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyGIWie5w6kl2H8XESEOSuX-dfQppic9Jf5w&usqp=CAU") ;
+}
+div{
+    background-color:#444 ;
+    width:1000px;
+    margin:auto;
+    padding:20px;
+    border-radius: 20px;
+}
+p{
+    color: blanchedalmond;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+img{
+    margin-top: 20px;
+    margin-left: 20px;
+    opacity:0.5;
+    border-radius: 20px;
+}
+img:hover{
+    opacity: 1;
+}
